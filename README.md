@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am LaingKe.
 
-<!--
-**laingke/laingke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm LaingKe, a full-stack web developer from China.
 
-Here are some ideas to get you started:
+### More about my recent situation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [simdjson-java](https://github.com/laingke/simdjson-java).
+- 🌱 I’m currently learning [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba).
+- :books: I’m translating [LCRH](https://github.com/LCTT/LCRH).
+- 🤔 I’m looking for help with implement SIMD in native Java, I will be grateful if you can leave any idea.
+- 💬 Ask me about anything at [issues](https://github.com/laingke/laingke/issues).
+- 📫 How to reach me: Email is OK.
+
+![LaingKe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laingke&show_icons=true&theme=nightowl&count_private=true)
