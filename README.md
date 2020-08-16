@@ -12,3 +12,6 @@ Hi, I'm LaingKe, a full-stack web developer from China.
 - 📫 How to reach me: Email is OK.
 
 ![LaingKe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laingke&show_icons=true&theme=nightowl&count_private=true)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
