@@ -13,7 +13,7 @@ Hi, I'm LaingKe, a full-stack web developer from China.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2020 - 07 November, 2020
+Week: 01 November, 2020 - 08 November, 2020
 
 Java         8 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.26 % 
 JavaScript   2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
