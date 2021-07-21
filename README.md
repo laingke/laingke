@@ -13,12 +13,13 @@ Hi, I'm LaingKe, a full-stack web developer from China.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 July, 2021 - 19 July, 2021
+Week: 14 July, 2021 - 20 July, 2021
 
-YAML         2 hrs 54 mins   █████████████▓░░░░░░░░░░░   54.20 % 
-Java         1 hr 41 mins    ████████░░░░░░░░░░░░░░░░░   31.44 % 
-XML          43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+YAML    4 hrs 5 mins    ███████████▒░░░░░░░░░░░░░   45.07 % 
+Java    2 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░   32.41 % 
+XML     1 hr 30 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+SQL     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Other   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
 
