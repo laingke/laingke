@@ -25,4 +25,4 @@ SQL          3 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-![LaingKe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laingke&show_icons=true&theme=nightowl&count_private=true)
+![LaingKe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laingke&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true)
