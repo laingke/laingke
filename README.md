@@ -14,10 +14,10 @@ Hi, I'm LaingKe, a full-stack web developer from China.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2024 - To: 24 November 2024
+From: 18 November 2024 - To: 25 November 2024
 
-Other    3 hrs 30 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.52 %
-Python   1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.48 %
+Other    2 hrs 28 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.33 %
+Python   1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.67 %
 ```
 
 <!--END_SECTION:waka-->
